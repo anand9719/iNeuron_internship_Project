@@ -13,7 +13,7 @@
 
 
 ## Demo
-Link: [https://flight-fares-pred-api.herokuapp.com/](https://flight-fares-pred-api.herokuapp.com/)
+Link: [https://flight-fare-predictor9719.onrender.com/](https://flight-fare-predictor9719.onrender.com/)
 
 
 ## Overview
